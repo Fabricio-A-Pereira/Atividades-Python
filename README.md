@@ -1,2 +1,2 @@
 # Atividades-Python
-Exercícios do curso de Python.
+Neste repositório tem alguns exercícios que resolvi em um curso sobre Python.
